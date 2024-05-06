@@ -1,0 +1,27 @@
+                                               Digital image peocessing
+                
+
+                                              Semester project mamber details
+
+        Title   : Text dedection and Extraction from CNIC
+
+       1)
+         Name   : Muhammad Zeeshan Javed
+         AgNo   :  2021-ag-5809
+         class  :  BSCS 6th Morning
+         
+       2)
+         Name   :  Umar Haider
+         AgNo   :  2021-ag-5805
+         class  :  BSCS 6th Morning
+         
+
+          
+
+          
+ 
+
+
+
+  
+
